@@ -1,0 +1,13 @@
+name: SpecterVips
+main: com.lucas.spectervips.Main
+version: 1.0
+author: [Specter]
+softdependence: [PermissionsEx]
+commands:
+  vips:
+  tirarvip:
+  ativarvip:
+  diasvip:
+  ativaryt:
+  ativarytplus:
+  ativarminiyt:
